@@ -1,0 +1,2 @@
+rembg[cpu]==2.0.61
+streamlit==1.41.1
